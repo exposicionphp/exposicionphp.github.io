@@ -167,8 +167,8 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 
 /* Main-col */
 article#main-col{
-  float:left;
-  width:65%;
+  float:right;
+  width:80%;
 }
 
 /* Services */
@@ -179,7 +179,9 @@ ul#services li{
   margin-bottom:5px;
   background:#e6e6e6;
   text-align: center;
-  display: inline-block;
+  display: inline-flex;
+  width: 70%;
+  height: 70%;
 }
 
 footer{
