@@ -35,6 +35,7 @@ ul{
 }
 h3{
   color: white;
+  text-align: center;
 }
 
 /* Header **/
@@ -174,8 +175,8 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 
 /* Main-col */
 article#main-col{
-  float:right;
-  width:80%;
+  float:left;
+  width:65%;
 }
 
 /* Services */
@@ -186,9 +187,7 @@ ul#services li{
   margin-bottom:5px;
   background:#e6e6e6;
   text-align: center;
-  display: inline-flex;
-  width: 70%;
-  height: 70%;
+  display: inline-block;
 }
 
 footer{
