@@ -60,6 +60,7 @@ header a{
   font-size: 1.2em;
   font-weight: 550;
   font-family: 'Montserrat', sans-serif;
+  text-decoration:none ;
 }
 
 header li{
