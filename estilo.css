@@ -97,7 +97,7 @@ header .highlight, header .current a{
 
 header a:hover{
   background: #315cfd;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 1.5em;
 }
 
