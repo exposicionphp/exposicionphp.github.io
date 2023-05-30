@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#725a89;
+  background-color:#446a95;
 }
 
 /* Global */
@@ -28,7 +28,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#5d3ca3;
+  background:#3c52a3;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -39,7 +39,7 @@ h3{
 
 /* Header **/
 header{
-  background:rgb(71, 40, 109);
+  background:#3c52a3;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -88,7 +88,7 @@ header .highlight, header .current a{
 }
 
 header a:hover{
-  color:rgb(174, 0, 255);
+  color:rgb(0, 13, 255);
   font-weight:bold;
 }
 
@@ -118,7 +118,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:rgb(71, 40, 109);
+  background:#3c52a3;
 }
 
 #newsletter h1{
@@ -186,7 +186,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:rgb(71, 40, 109);
+  background-color:#3c52a3;
   text-align: center;
 }
 
