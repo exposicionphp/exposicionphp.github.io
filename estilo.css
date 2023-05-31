@@ -82,7 +82,7 @@ header #branding img{
 }
 header #branding h1{
   margin:0;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 
 header nav{
@@ -91,7 +91,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#ffffff;
+  color:#5876d9;
   font-weight:bold;
 }
 
