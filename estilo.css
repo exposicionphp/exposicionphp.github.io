@@ -77,8 +77,9 @@ float:left;
   
 }
 header #branding img{
-  height: 100px;
+  height: 70px;
   margin-right: 10px;
+  border: 2px #000000;
 
 }
 header #branding h1{
