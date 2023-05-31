@@ -52,11 +52,11 @@ header{
 header a{
   width: 150px;
   height: 60px;
-  border: 3px solid #121729;
+  border: 3px solid #ffffff;
   border-radius: 6px;
   transition: all 0.3s;
   cursor: pointer;
-  background: rgb(191, 242, 253);
+  background: rgb(0, 0, 255);
   font-size: 1.2em;
   font-weight: 550;
   font-family: 'Montserrat', sans-serif;
@@ -82,7 +82,7 @@ header #branding img{
 }
 header #branding h1{
   margin:0;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 header nav{
@@ -90,14 +90,17 @@ header nav{
   margin-top:10px;
 }
 
-header .highlight, header .current a{
-  color:#5876d9;
+header .highlight{
+  color:#ffffff;
   font-weight:bold;
 }
-
+header .current a{
+  color:#000000;
+  font-weight:bold;
+}
 header a:hover{
-  background: #315cfd;
-  color: rgb(0, 0, 0);
+  background: #000000;
+  color: rgb(255, 255, 255);
   font-size: 1.5em;
 }
 
